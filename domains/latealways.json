@@ -1,9 +1,9 @@
 {
-    "owner": {
-        "username": "LateAlways",
-        "email": "latealways@fuchsiax.dev"
-    },
-    "record": {
-        "CNAME": "i-am-a.fuchsiax.dev"
-    }
+  "owner": {
+    "username": "LateAlways",
+    "email": "latealways.official@gmail.com"
+  },
+  "record": {
+    "CNAME": "latealways.github.io"
+  }
 }
